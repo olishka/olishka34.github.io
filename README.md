@@ -1,2 +1,2 @@
-# olishka34.github.io
+# olishka.github.io
 Мой первый хостинг
